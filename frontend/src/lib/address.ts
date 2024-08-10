@@ -1,0 +1,1 @@
+export const votingAddress = '0xB7b8FF73bc1b41feF618f43dfe063f42753470f1' as const
